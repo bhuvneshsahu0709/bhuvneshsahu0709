@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif)](https://portfolio-bhuvnesh-sahu.netlify.app/)
+[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://portfolio-bhuvnesh-sahu.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Bhuvnesh Sahu</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
